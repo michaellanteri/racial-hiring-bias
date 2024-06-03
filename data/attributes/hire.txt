@@ -1,0 +1,8 @@
+hire
+reject
+accept
+deny
+approve
+disapprove
+fire
+promote
