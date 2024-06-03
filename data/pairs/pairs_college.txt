@@ -1,0 +1,42 @@
+Howard University	Brigham Young University
+Howard University	Iowa State University of Science and Technology
+Howard University	University of Arizona
+Howard University	University of New Hampshire
+Howard University	University of San Francisco
+Howard University	The University of Texas at Dallas
+Florida A&M University	University of Mississippi
+Florida A&M University	University of St. Thomas (MN)
+Florida A&M University	California State University--San Bernardino
+Florida A&M University	Kansas State University
+Florida A&M University	Mercer University
+Florida A&M University	Quinnipiac University
+Winston-Salem State University	University of Missouri--St. Louis
+Winston-Salem State University	University of New England
+Winston-Salem State University	University of North Texas
+Winston-Salem State University	Florida Institute of Technology
+Winston-Salem State University	George Fox University
+Winston-Salem State University	Lincoln Memorial University
+Hampton University	California State University--East Bay
+Hampton University	Clarke University
+Hampton University	DeSales University
+Hampton University	Immaculata University
+Hampton University	Marian University (IN)
+Hampton University	Oklahoma City University
+Morgan State University	Augusta University
+Morgan State University	Boise State University
+Morgan State University	Marshall University
+Morgan State University	Oakland University
+Morgan State University	Southern Illinois University Edwardsville
+Morgan State University	University of Findlay
+Clark Atlanta University	William Carey University
+Clark Atlanta University	Arkansas State University
+Clark Atlanta University	Carson-Newman University
+Clark Atlanta University	Husson University
+Clark Atlanta University	The University of Akron
+Clark Atlanta University	University of Montana
+University of Maryland, Eastern Shore	Long Island University
+University of Maryland, Eastern Shore	Mississippi College
+University of Maryland, Eastern Shore	Regent University
+University of Maryland, Eastern Shore	University of Louisiana at Monroe
+University of Maryland, Eastern Shore	Dallas Baptist University
+University of Maryland, Eastern Shore	Eastern Michigan University
